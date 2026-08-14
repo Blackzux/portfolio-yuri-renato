@@ -24,13 +24,13 @@ jobs:
         run: |
           mkdir -p /tmp/portfolio-yuri-site
           unzip -q /tmp/portfolio-yuri-site.zip -d /tmp/portfolio-yuri-site
-          rsync -a --exclude=.git /tmp/portfolio-yuri-site/ ./
+          rsync -a --exclude=.git --exclude=.github /tmp/portfolio-yuri-site/ ./
 
       - name: Registrar os arquivos no repositório
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- about contact data downloads fonts home hub projects services scripts .github .gitignore .nojekyll COMO-ATUALIZAR.md LEIA-ME.txt README.md app.css app.js bootstrap.js index.html robots.txt sitemap.xml
+          git add -- about contact data downloads fonts home hub projects services scripts .gitignore .nojekyll COMO-ATUALIZAR.md LEIA-ME.txt README.md app.css app.js bootstrap.js index.html robots.txt sitemap.xml
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "Publica portfólio completo de Yuri Renato"
           git push origin HEAD:main
