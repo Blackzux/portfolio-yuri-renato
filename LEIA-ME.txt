@@ -1,0 +1,5 @@
+PORTFÓLIO YURI RENATO — VERSÃO PARA GITHUB
+
+Para abrir, atualizar e publicar o site, consulte README.md.
+O catálogo editável de projetos está em data/projects.json.
+O guia passo a passo está em COMO-ATUALIZAR.md.

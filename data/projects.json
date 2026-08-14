@@ -1,0 +1,913 @@
+[
+  {
+    "id": "2z-dinizz-patrono",
+    "title": "2Z Dinizz — Patrono",
+    "category": "Direção de Arte",
+    "eyebrow": "Design Comercial · Pôster",
+    "year": "2025",
+    "description": [
+      "Pôster conceitual desenvolvido a partir do rapper 2Z Dinizz e do álbum Patrono. A direção visual foi construída com referências presentes em suas músicas e em elementos associados ao universo do artista, buscando criar uma composição que transmitisse identidade, presença e atmosfera.",
+      "O projeto também recebeu desdobramentos em diferentes formatos e aplicação em mockup."
+    ],
+    "work": "Direção de arte, composição, luz e sombra, coloração, manipulação de imagem, integração de elementos e hierarquia visual.",
+    "tools": [
+      "Adobe Photoshop"
+    ],
+    "colors": [
+      "#250008",
+      "#d70722"
+    ],
+    "cover": "projects/patrono/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/patrono/capa.jpg",
+        "label": "Pôster principal"
+      },
+      {
+        "src": "projects/patrono/desdobramento-horizontal.jpg",
+        "label": "Desdobramento horizontal"
+      },
+      {
+        "src": "projects/patrono/desdobramento-esquerda.jpg",
+        "label": "Desdobramento — esquerda"
+      },
+      {
+        "src": "projects/patrono/desdobramento-direita.jpg",
+        "label": "Desdobramento — direita"
+      },
+      {
+        "src": "projects/patrono/mockup.png",
+        "label": "Aplicação em mockup"
+      }
+    ]
+  },
+  {
+    "id": "arrascaeta-cariocao",
+    "title": "Arrascaeta — Cariocão",
+    "category": "Direção de Arte",
+    "eyebrow": "Sports Design · Social Media",
+    "year": "2024",
+    "description": [
+      "Peça autoral desenvolvida como estudo visual a partir de Arrascaeta e do Flamengo no contexto do Cariocão 2024.",
+      "O projeto marcou meu retorno à produção de artes após um período afastado do design e representa uma etapa importante da minha evolução visual. A composição explora repetição de imagens, tipografia em grande escala, símbolos do clube e uma estética mais agressiva para transmitir intensidade, identidade e presença."
+    ],
+    "work": "Direção de arte, composição, recorte e tratamento de imagem, hierarquia visual, tipografia, contraste, texturização, integração de elementos, coloração e aplicação em mockup.",
+    "tools": [
+      "Adobe Photoshop"
+    ],
+    "colors": [
+      "#08090b",
+      "#bd071b"
+    ],
+    "cover": "projects/arrascaeta-cariocao/capa.jpeg",
+    "gallery": [
+      {
+        "src": "projects/arrascaeta-cariocao/capa.jpeg",
+        "label": "Arte principal"
+      },
+      {
+        "src": "projects/arrascaeta-cariocao/mockup.png",
+        "label": "Aplicação no Instagram"
+      }
+    ]
+  },
+  {
+    "id": "bk-noite-estrelada",
+    "title": "BK — A Noite Estrelada",
+    "category": "Direção de Arte",
+    "eyebrow": "Design Musical · Manipulação de Imagem",
+    "year": "2025",
+    "description": [
+      "Projeto autoral que marcou um aprofundamento no meu processo de direção de arte, partindo da união entre diferentes referências, sensações e significados dentro de uma mesma composição.",
+      "A proposta conecta a atmosfera de A Noite Estrelada, de Vincent van Gogh, com a experiência de ouvir o álbum DLRE, de BK, criando um universo visual em que música e pintura se encontram. A composição utiliza diferentes escalas do artista, elementos da obra, interface musical e uma ambientação predominantemente azul para construir uma narrativa mais subjetiva e imersiva."
+    ],
+    "work": "Direção de arte, construção de conceito, composição, manipulação e integração de imagens, hierarquia visual, escala e profundidade, recorte, tratamento de imagem, coloração e desenvolvimento de elementos gráficos.",
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator"
+    ],
+    "colors": [
+      "#061329",
+      "#1763d1"
+    ],
+    "cover": "projects/bk-noite-estrelada/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/bk-noite-estrelada/capa.jpg",
+        "label": "Arte principal"
+      },
+      {
+        "src": "projects/bk-noite-estrelada/processo-construcao.jpg",
+        "label": "Construção inicial"
+      },
+      {
+        "src": "projects/bk-noite-estrelada/processo-integracao.jpg",
+        "label": "Integração e acabamento"
+      },
+      {
+        "src": "projects/bk-noite-estrelada/detalhe-composicao.jpg",
+        "label": "Detalhe — escala e profundidade"
+      },
+      {
+        "src": "projects/bk-noite-estrelada/detalhe-interface.jpg",
+        "label": "Detalhe — interface musical"
+      },
+      {
+        "src": "projects/bk-noite-estrelada/mockup.png",
+        "label": "Aplicação em mockup"
+      }
+    ]
+  },
+  {
+    "id": "brasil-copa-2026",
+    "title": "Brasil",
+    "category": "Direção de Arte",
+    "eyebrow": "Sports Design · Manipulação de Imagem",
+    "year": "2026",
+    "description": [
+      "Arte conceitual criada no contexto da Copa do Mundo, com a proposta de unir jogadores da seleção brasileira a referências visuais dos povos originários em um cenário de pré-colonização.",
+      "A ideia foi explorar o contraste entre o futebol contemporâneo e elementos ancestrais da identidade brasileira, criando uma narrativa visual que mistura tradição, natureza e nacionalidade. O processo foi desafiador e, ao mesmo tempo, estimulante, principalmente pela necessidade de utilizar inteligência artificial como apoio na criação de elementos de uma época distante da tecnologia como conhecemos hoje."
+    ],
+    "work": "Construção de conceito, direção de arte, adaptação e integração de elementos, composição, coloração, tratamento de imagem, ângulo e profundidade, iluminação, manipulação fotográfica e coerência visual entre elementos reais e gerados.",
+    "tools": [
+      "Adobe Photoshop",
+      "ChatGPT"
+    ],
+    "colors": [
+      "#352000",
+      "#f3b917"
+    ],
+    "cover": "projects/brasil-copa-2026/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/brasil-copa-2026/capa.jpg",
+        "label": "Arte principal"
+      },
+      {
+        "src": "projects/brasil-copa-2026/carrossel-esquerda.jpg",
+        "label": "Desdobramento — esquerda"
+      },
+      {
+        "src": "projects/brasil-copa-2026/carrossel-direita.jpg",
+        "label": "Desdobramento — direita"
+      },
+      {
+        "src": "projects/brasil-copa-2026/mockup.png",
+        "label": "Aplicação em mockup"
+      }
+    ]
+  },
+  {
+    "id": "brian-o-correr",
+    "title": "Brian",
+    "category": "Direção de Arte",
+    "eyebrow": "Design Automotivo · Pôster Conceitual",
+    "year": "2026",
+    "description": [
+      "Arte conceitual criada a partir da vontade de reunir três referências que fazem parte do meu universo criativo: design, cinema e carros.",
+      "A peça foi inspirada no imaginário de Velozes e Furiosos, com foco em uma estética urbana, noturna e nostálgica, trazendo como elemento central a conexão entre o personagem, o Nissan Skyline e a atmosfera visual marcante da franquia. A proposta foi transformar essa admiração em um pôster com linguagem mais cinematográfica, explorando composição, impacto visual e identidade automotiva."
+    ],
+    "work": "Direção de arte, composição, integração de elementos, iluminação, coloração, manipulação de imagem, tipografia, ambientação e construção de imersão visual.",
+    "tools": [
+      "Adobe Photoshop"
+    ],
+    "colors": [
+      "#071b38",
+      "#328ee4"
+    ],
+    "cover": "projects/brian-o-correr/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/brian-o-correr/capa.jpg",
+        "label": "Pôster principal"
+      },
+      {
+        "src": "projects/brian-o-correr/mockup.png",
+        "label": "Aplicação em mockup"
+      }
+    ]
+  },
+  {
+    "id": "cabo-verde-copa-2026",
+    "title": "Cabo Verde",
+    "category": "Direção de Arte",
+    "eyebrow": "Sports Design · Pôster Conceitual",
+    "year": "2026",
+    "description": [
+      "Arte criada em contexto de Copa do Mundo, a partir do impacto que Cabo Verde causou ao demonstrar força competitiva diante de seleções tradicionais, empatando com a então campeã do mundo e também com equipes de grande peso como Uruguai e Argentina.",
+      "A proposta foi traduzir essa garra em uma composição visual que unisse futebol e identidade local, buscando integrar elementos ligados ao país dentro da cena para reforçar pertencimento, atmosfera e narrativa. A presença do mar, da fauna e das cores da bandeira ajuda a construir uma peça com caráter simbólico, conectando a seleção ao território e à sua essência."
+    ],
+    "work": "Direção de arte, composição, integração de elementos, iluminação, coloração, manipulação de imagem, tipografia e construção de narrativa visual.",
+    "tools": [
+      "Adobe Photoshop",
+      "ChatGPT"
+    ],
+    "colors": [
+      "#062f46",
+      "#118da0"
+    ],
+    "cover": "projects/cabo-verde-copa-2026/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/cabo-verde-copa-2026/capa.jpg",
+        "label": "Pôster principal"
+      },
+      {
+        "src": "projects/cabo-verde-copa-2026/carrossel-esquerda.jpg",
+        "label": "Desdobramento — esquerda"
+      },
+      {
+        "src": "projects/cabo-verde-copa-2026/carrossel-direita.jpg",
+        "label": "Desdobramento — direita"
+      },
+      {
+        "src": "projects/cabo-verde-copa-2026/mockup.png",
+        "label": "Aplicação em mockup"
+      }
+    ]
+  },
+  {
+    "id": "imperio-verao",
+    "title": "Império",
+    "category": "Direção de Arte",
+    "eyebrow": "Design Comercial · Social Media",
+    "year": "2023",
+    "description": [
+      "Uma das peças que representa meu primeiro contato mais afetivo com o design. Na época, eu ainda produzia principalmente por hobby e passava por um período de bloqueio criativo, sem uma relação tão próxima com a área quanto tenho hoje.",
+      "Essa arte nasceu justamente desse momento e acabou se tornando uma das poucas peças que preservei daquela fase, funcionando hoje como um registro do início da minha construção visual. A proposta foi desenvolver uma comunicação de verão para a cerveja Império, explorando produto, textura de areia, mar e uma atmosfera leve e sazonal."
+    ],
+    "work": "Composição publicitária, destaque de produto, hierarquia visual, integração de elementos, recorte, tratamento de imagem, texturização, iluminação, tipografia e construção de atmosfera.",
+    "tools": [
+      "Adobe Photoshop"
+    ],
+    "colors": [
+      "#6b4304",
+      "#edbd58"
+    ],
+    "cover": "projects/imperio-verao/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/imperio-verao/capa.jpg",
+        "label": "Arte principal"
+      },
+      {
+        "src": "projects/imperio-verao/mockup.png",
+        "label": "Aplicação no Instagram"
+      }
+    ]
+  },
+  {
+    "id": "dupe",
+    "title": "Dupe",
+    "category": "Direção de Arte",
+    "eyebrow": "Design Musical · Manipulação de Imagem",
+    "year": "2026",
+    "description": [
+      "Projeto autoral inspirado em um artista que passei a acompanhar em 2026, marcado por uma mistura entre rock e referências da música nordestina.",
+      "A proposta foi traduzir essa identidade em uma composição que aproximasse elementos ligados ao cangaço de uma ambientação urbana e periférica, trazendo a favela ao fundo como referência ao Rio de Janeiro, cidade onde o artista vive atualmente e que também faz parte da minha própria vivência. A peça busca construir um encontro visual entre origem, trajetória, território e linguagem musical."
+    ],
+    "work": "Direção de arte, construção de conceito, composição, manipulação de imagem, integração de elementos, ambientação, coloração, iluminação, contraste, profundidade, tratamento de imagem e construção de narrativa visual.",
+    "tools": [
+      "Adobe Photoshop"
+    ],
+    "colors": [
+      "#3d1d02",
+      "#e39a13"
+    ],
+    "cover": "projects/dupe/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/dupe/capa.jpg",
+        "label": "Arte principal"
+      },
+      {
+        "src": "projects/dupe/mockup.png",
+        "label": "Aplicação musical em mockup"
+      }
+    ]
+  },
+  {
+    "id": "iza",
+    "title": "IZA",
+    "category": "Direção de Arte",
+    "eyebrow": "Design Musical · Social Media",
+    "year": "2025",
+    "description": [
+      "Projeto autoral desenvolvido durante um período em que produzi diferentes peças visuais inspiradas em artistas e senti a necessidade de ampliar essa pesquisa para figuras femininas.",
+      "IZA foi escolhida por sua presença, estética e identidade visual marcante. A proposta partiu do estudo de sua linguagem para construir uma composição vibrante, elegante e expressiva, combinando retratos em diferentes escalas, padrões gráficos e uma paleta quente para traduzir visualmente a energia da artista."
+    ],
+    "work": "Direção de arte, pesquisa estética, composição, recorte e tratamento de imagem, hierarquia visual, integração de elementos, coloração, contraste, escala, textura e construção de identidade visual para a peça.",
+    "tools": [
+      "Adobe Photoshop"
+    ],
+    "colors": [
+      "#4b2029",
+      "#e66f65"
+    ],
+    "cover": "projects/iza/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/iza/capa.jpg",
+        "label": "Arte principal"
+      },
+      {
+        "src": "projects/iza/mockup.png",
+        "label": "Aplicação musical em mockup"
+      }
+    ]
+  },
+  {
+    "id": "liryu-doces",
+    "title": "Liryu Doce’s",
+    "category": "Branding",
+    "eyebrow": "Identidade Visual · Design Comercial",
+    "year": "2026",
+    "description": [
+      "Identidade visual desenvolvida para uma doceria criada por mim e minha mãe. O projeto marcou minha primeira experiência construindo uma marca pensada para funcionar de forma real, com aplicações comerciais, comunicação com clientes e presença visual consistente.",
+      "A proposta foi criar uma identidade acolhedora, leve e ligada ao universo dos doces, utilizando formas orgânicas, uma paleta quente e elementos gráficos que transmitissem proximidade e artesanalidade. A identidade foi aplicada em materiais de venda, social media, embalagens e pontos de contato da marca."
+    ],
+    "work": "Construção de identidade visual, desenvolvimento de logotipo e símbolo, definição de paleta de cores, tipografia, sistema gráfico, hierarquia visual, aplicações de marca, social media, materiais comerciais, apresentação de produtos e consistência visual entre diferentes pontos de contato.",
+    "tools": [
+      "Adobe Photoshop",
+      "ChatGPT"
+    ],
+    "colors": [
+      "#653028",
+      "#efdec5"
+    ],
+    "cover": "projects/liryu-doces/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/liryu-doces/capa.jpg",
+        "label": "Capa do projeto"
+      },
+      {
+        "src": "projects/liryu-doces/identidade-inicio.jpg",
+        "label": "Apresentação da identidade"
+      },
+      {
+        "src": "projects/liryu-doces/paleta.jpg",
+        "label": "Paleta de cores"
+      },
+      {
+        "src": "projects/liryu-doces/variacoes-logo.jpg",
+        "label": "Símbolo e variações do logotipo"
+      },
+      {
+        "src": "projects/liryu-doces/tipografia.jpg",
+        "label": "Tipografia da marca"
+      },
+      {
+        "src": "projects/liryu-doces/tabela-precos.jpg",
+        "label": "Material comercial e tabela de preços"
+      },
+      {
+        "src": "projects/liryu-doces/social-media.jpg",
+        "label": "Sistema visual para social media"
+      },
+      {
+        "src": "projects/liryu-doces/fachada.png",
+        "label": "Aplicação em fachada"
+      },
+      {
+        "src": "projects/liryu-doces/embalagem-caixa.png",
+        "label": "Aplicação em caixa"
+      },
+      {
+        "src": "projects/liryu-doces/uniforme.png",
+        "label": "Aplicação em uniforme"
+      },
+      {
+        "src": "projects/liryu-doces/cartao.png",
+        "label": "Cartão da marca"
+      },
+      {
+        "src": "projects/liryu-doces/embalagem-papel.png",
+        "label": "Sistema de embalagens"
+      }
+    ]
+  },
+  {
+    "id": "matue-333",
+    "title": "Matuê",
+    "category": "Direção de Arte",
+    "eyebrow": "Design Musical · Manipulação de Imagem",
+    "year": "2025",
+    "description": [
+      "Projeto autoral desenvolvido durante uma fase de intensa produção de peças voltadas para artistas. Nessa arte, busquei me aprofundar na estética do álbum 333, de Matuê, utilizando referências visuais e simbólicas presentes no universo do projeto para construir uma composição mais conceitual e imersiva.",
+      "A peça reúne diferentes imagens do artista, elementos gráficos fragmentados e uma ambientação em tons de azul claro para traduzir a atmosfera misteriosa, intensa e marcante do álbum, criando uma conexão direta entre identidade musical e linguagem visual."
+    ],
+    "work": "Direção de arte, construção de conceito, composição, manipulação e integração de imagens, recorte, hierarquia visual, escala e profundidade, coloração, ambientação visual e desenvolvimento de elementos gráficos.",
+    "tools": [
+      "Adobe Photoshop"
+    ],
+    "colors": [
+      "#d9f4ff",
+      "#1598dc"
+    ],
+    "cover": "projects/matue-333/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/matue-333/capa.jpg",
+        "label": "Arte principal"
+      },
+      {
+        "src": "projects/matue-333/mockup.png",
+        "label": "Aplicação musical em mockup"
+      }
+    ]
+  },
+  {
+    "id": "last-dance",
+    "title": "The Last Dance",
+    "category": "Direção de Arte",
+    "eyebrow": "Sports Design · Manipulação de Imagem",
+    "year": "2026",
+    "description": [
+      "Projeto autoral desenvolvido para imaginar a final de Copa do Mundo entre Argentina e Espanha, tratando o confronto como o último grande capítulo de Messi no torneio. O conceito parte da nova geração espanhola que cresceu admirando sua trajetória e que agora precisa enfrentá-lo dentro de campo.",
+      "A construção narrativa foi inspirada na dinâmica de Jiraiya contra Pain, enquanto o estádio destruído, a iluminação e a atmosfera pesada reforçam a sensação de fim de ciclo presente no título The Last Dance. Mais do que representar uma partida, a proposta foi transformar a final em um confronto entre gerações, legado e continuidade."
+    ],
+    "work": "Direção de arte, construção de conceito, storytelling visual, composição cinematográfica, manipulação e integração de imagens, criação de cenário, caracterização dos personagens, iluminação, profundidade, tratamento de cor, ambientação e hierarquia visual.",
+    "tools": [
+      "Adobe Photoshop",
+      "ChatGPT"
+    ],
+    "colors": [
+      "#181510",
+      "#9a815f"
+    ],
+    "cover": "projects/the-last-dance/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/the-last-dance/capa.jpg",
+        "label": "Arte final"
+      },
+      {
+        "src": "projects/the-last-dance/processo-composicao.jpg",
+        "label": "Composição sem tipografia"
+      },
+      {
+        "src": "projects/the-last-dance/processo-montagem.jpg",
+        "label": "Processo de montagem e integração"
+      },
+      {
+        "src": "projects/the-last-dance/mockup.png",
+        "label": "Aplicação em pôster e social media"
+      }
+    ]
+  },
+  {
+    "id": "air-jordan",
+    "title": "Air Jordan",
+    "category": "Direção de Arte",
+    "eyebrow": "Design Comercial · Publicidade de Produto",
+    "year": "2026",
+    "description": [
+      "Projeto desenvolvido como estudo prático do Affinity, durante o período em que passei a explorar a ferramenta após sua integração ao ecossistema Canva.",
+      "A proposta foi criar uma peça publicitária para o Air Jordan trabalhando uma estética monocromática, limpa e sofisticada, mantendo o produto como principal ponto de atenção. Incluí o projeto no portfólio também como demonstração de versatilidade, mostrando minha capacidade de adaptar o processo criativo e construir peças comerciais consistentes utilizando diferentes softwares."
+    ],
+    "work": "Direção de arte, composição publicitária, destaque de produto, hierarquia visual, iluminação e sombras, profundidade, tratamento de imagem, tipografia, ambientação monocromática e construção de chamada comercial.",
+    "tools": [
+      "Affinity"
+    ],
+    "colors": [
+      "#8a919b",
+      "#dde2e8"
+    ],
+    "cover": "projects/air-jordan/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/air-jordan/capa.jpg",
+        "label": "Peça principal"
+      },
+      {
+        "src": "projects/air-jordan/mockup.png",
+        "label": "Aplicação digital"
+      }
+    ]
+  },
+  {
+    "id": "nineco-web-design",
+    "title": "NineCo — Web Design",
+    "category": "Web Design",
+    "eyebrow": "UI Design · Conceito de E-commerce",
+    "year": "2025",
+    "description": [
+      "Projeto acadêmico desenvolvido para a disciplina de Web Design, a partir de uma marca que eu havia criado anteriormente durante meu curso de Jovem Aprendiz.",
+      "A proposta foi reaproveitar a identidade da NineCo e expandi-la para o ambiente digital, desenvolvendo o conceito visual de um e-commerce voltado para moda urbana. O projeto explora uma linguagem monocromática, tipografia expressiva e uma organização visual inspirada no universo streetwear, trabalhando a marca em uma aplicação mais funcional e comercial."
+    ],
+    "work": "Design de interface, composição de layout, hierarquia visual, organização de produtos e informações, navegação, tipografia, aplicação de identidade visual, estrutura de e-commerce, adaptação para diferentes telas e apresentação em mockup.",
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator"
+    ],
+    "colors": [
+      "#f5f5f5",
+      "#555b63"
+    ],
+    "cover": "projects/nineco-web-design/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/nineco-web-design/capa.jpg",
+        "label": "Identidade da marca"
+      },
+      {
+        "src": "projects/nineco-web-design/home-page.jpg",
+        "label": "Página inicial"
+      },
+      {
+        "src": "projects/nineco-web-design/layout-completo.jpg",
+        "label": "Estrutura do e-commerce"
+      },
+      {
+        "src": "projects/nineco-web-design/mockup.png",
+        "label": "Aplicação responsiva"
+      }
+    ]
+  },
+  {
+    "id": "noruega",
+    "title": "Noruega",
+    "category": "Direção de Arte",
+    "eyebrow": "Sports Design · Manipulação de Imagem",
+    "year": "2026",
+    "description": [
+      "Projeto autoral desenvolvido no contexto da Copa do Mundo, com a proposta de unir o universo do futebol à identidade cultural e ancestral da Noruega. A composição parte da admiração pela força visual da famosa “remada viking” feita por jogadores e torcedores, transformando esse símbolo em uma narrativa imagética que conecta esporte, território e tradição.",
+      "A peça explora a ambientação fria e imponente da paisagem nórdica, integrando os atletas a elementos históricos e mitológicos para criar uma cena com impacto visual e atmosfera épica."
+    ],
+    "work": "Direção de arte, construção de conceito, composição, integração de imagens, adaptação de elementos temáticos, ambientação, profundidade, iluminação, coloração, tratamento de imagem e narrativa visual.",
+    "tools": [
+      "Adobe Photoshop"
+    ],
+    "colors": [
+      "#102f46",
+      "#5d879f"
+    ],
+    "cover": "projects/noruega/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/noruega/capa.jpg",
+        "label": "Arte principal"
+      },
+      {
+        "src": "projects/noruega/mockup.png",
+        "label": "Aplicação em mockup"
+      }
+    ]
+  },
+  {
+    "id": "recycletec",
+    "title": "Recycletec",
+    "category": "Branding",
+    "eyebrow": "Identidade Visual · Design Sustentável",
+    "year": "2025",
+    "description": [
+      "Projeto acadêmico desenvolvido durante o curso de Jovem Aprendiz para uma empresa fictícia voltada à criação de produtos a partir de materiais reciclados.",
+      "A proposta foi construir uma identidade que conectasse sustentabilidade, inovação e uma percepção mais sofisticada de produto, evitando limitar a comunicação ambiental apenas aos códigos visuais mais tradicionais do segmento.",
+      "Além da identidade, o projeto foi expandido para diferentes aplicações e para a apresentação de um primeiro produto: um suporte de notebook desenvolvido a partir de materiais reaproveitados."
+    ],
+    "work": "Construção de identidade visual, desenvolvimento de logotipo e símbolo, paleta de cores, tipografia, sistema gráfico, variações de marca, aplicações, materiais institucionais, apresentação de produto, embalagem e consistência visual entre diferentes pontos de contato.",
+    "tools": [
+      "Affinity"
+    ],
+    "colors": [
+      "#f15a24",
+      "#ff8a45"
+    ],
+    "cover": "projects/recycletec/simbolo-principal.jpg",
+    "gallery": [
+      {
+        "src": "projects/recycletec/capa.jpg",
+        "label": "Capa do projeto"
+      },
+      {
+        "src": "projects/recycletec/simbolo-laranja.jpg",
+        "label": "Símbolo sobre fundo laranja"
+      },
+      {
+        "src": "projects/recycletec/simbolo-principal.jpg",
+        "label": "Versão principal do símbolo"
+      },
+      {
+        "src": "projects/recycletec/simbolo-negativo.jpg",
+        "label": "Versão negativa do símbolo"
+      },
+      {
+        "src": "projects/recycletec/variacoes-logo.jpg",
+        "label": "Variações do logotipo"
+      },
+      {
+        "src": "projects/recycletec/paleta.jpg",
+        "label": "Paleta de cores"
+      },
+      {
+        "src": "projects/recycletec/tipografia.jpg",
+        "label": "Tipografia da identidade"
+      },
+      {
+        "src": "projects/recycletec/produto.jpg",
+        "label": "Apresentação do primeiro produto"
+      },
+      {
+        "src": "projects/recycletec/embalagem-produto.png",
+        "label": "Embalagem do produto"
+      },
+      {
+        "src": "projects/recycletec/aplicacoes-sustentaveis.png",
+        "label": "Aplicações sustentáveis"
+      },
+      {
+        "src": "projects/recycletec/sacola-embalagem.png",
+        "label": "Sacola e embalagem"
+      },
+      {
+        "src": "projects/recycletec/materiais-institucionais.png",
+        "label": "Materiais institucionais"
+      },
+      {
+        "src": "projects/recycletec/apresentacao.jpg",
+        "label": "Apresentação completa do projeto"
+      }
+    ]
+  },
+  {
+    "id": "outdoor-puma-future-z",
+    "title": "Outdoor PUMA — Future Z",
+    "category": "Design Comercial",
+    "eyebrow": "Design Publicitário · Sports Design · OOH",
+    "year": "2025",
+    "description": [
+      "Projeto acadêmico desenvolvido a partir do desafio de criar uma peça publicitária para outdoor. Escolhi trabalhar com uma chuteira da linha PUMA Future Z associada a Neymar Jr., construindo uma comunicação inspirada na estética tecnológica e esportiva do produto.",
+      "Por se tratar de mídia externa, a proposta priorizou impacto imediato, contraste e uma composição de leitura rápida, utilizando iluminação em azul e vermelho, diferentes ângulos da chuteira e poucos elementos textuais para manter o produto como protagonista."
+    ],
+    "work": "Composição publicitária, hierarquia visual, destaque de produto, recorte e tratamento de imagem, iluminação, contraste, coloração, profundidade, tipografia, adaptação para grande formato e construção de comunicação para mídia externa.",
+    "tools": [
+      "Adobe Photoshop"
+    ],
+    "colors": [
+      "#030817",
+      "#081b3f"
+    ],
+    "cover": "projects/outdoor-puma/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/outdoor-puma/capa.jpg",
+        "label": "Peça principal para outdoor"
+      },
+      {
+        "src": "projects/outdoor-puma/mockup.png",
+        "label": "Aplicação em mídia externa"
+      }
+    ]
+  },
+  {
+    "id": "flamengo-rumo-ao-tetra",
+    "title": "Flamengo: Rumo ao Tetra",
+    "category": "Direção de Arte",
+    "eyebrow": "Sports Design · Pôster Conceitual · Key Visual",
+    "year": "2025",
+    "description": [
+      "Arte desenvolvida no contexto da semifinal da Copa Libertadores da América, com o objetivo de representar o Flamengo em uma jornada épica rumo ao tetracampeonato.",
+      "A proposta foi construir um cenário grandioso e simbólico, posicionando os jogadores que participaram das duas últimas conquistas como figuras heroicas em direção ao objetivo final. A composição mistura futebol, atmosfera cinematográfica e elementos monumentais para reforçar a grandeza do momento e a ambição do clube."
+    ],
+    "work": "Direção de arte, composição, manipulação de imagem, integração de personagens e cenário, construção de narrativa visual, ambientação épica, tratamento de luz e cor, profundidade, recorte e montagem.",
+    "tools": [
+      "Adobe Photoshop"
+    ],
+    "colors": [
+      "#2a2118",
+      "#b69a63"
+    ],
+    "cover": "projects/flamengo-rumo-ao-tetra/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/flamengo-rumo-ao-tetra/capa.jpg",
+        "label": "Arte principal"
+      },
+      {
+        "src": "projects/flamengo-rumo-ao-tetra/processo-integracao.jpg",
+        "label": "Processo de integração e composição"
+      },
+      {
+        "src": "projects/flamengo-rumo-ao-tetra/mockup.png",
+        "label": "Aplicação em pôster"
+      }
+    ]
+  },
+  {
+    "id": "protecao-veicular",
+    "title": "Proteção Veicular",
+    "category": "Design Comercial",
+    "eyebrow": "Social Media · Publicidade",
+    "year": "2025",
+    "description": [
+      "Projeto desenvolvido para apoiar a comunicação de um profissional que atuava com proteção veicular. Ao todo, foram criadas cinco peças para redes sociais, trabalhando diferentes argumentos comerciais e formatos dentro da identidade da marca.",
+      "Apesar de eu não ter preservado todas as artes do projeto, mantive duas delas com autorização para apresentação no portfólio. O objetivo visual foi comunicar o serviço de maneira direta, utilizando os veículos como protagonistas e organizando informações, benefícios e chamadas para ação de forma clara e comercial."
+    ],
+    "work": "Design para redes sociais, composição publicitária, hierarquia de informação, recorte e tratamento de produto, aplicação de identidade visual, tipografia, contraste, organização de CTA, adaptação entre Feed e Story e consistência visual entre as peças.",
+    "tools": [
+      "Adobe Photoshop"
+    ],
+    "colors": [
+      "#f7f7f4",
+      "#ff6500"
+    ],
+    "cover": "projects/protecao-veicular/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/protecao-veicular/capa.jpg",
+        "label": "Peça para Feed"
+      },
+      {
+        "src": "projects/protecao-veicular/story.jpg",
+        "label": "Peça para Story"
+      },
+      {
+        "src": "projects/protecao-veicular/mockup-feed.png",
+        "label": "Aplicação no Feed do Instagram"
+      },
+      {
+        "src": "projects/protecao-veicular/mockup-story.png",
+        "label": "Aplicação no Story do Instagram"
+      }
+    ]
+  },
+  {
+    "id": "copa-2026-semifinal",
+    "title": "Copa do Mundo 2026: Semifinal",
+    "category": "Direção de Arte",
+    "eyebrow": "Sports Design · Arte Conceitual · Key Visual",
+    "year": "2026",
+    "description": [
+      "Essa arte foi desenvolvida a partir da ideia dos grandes confrontos da semifinal da Copa do Mundo de 2026. Busquei construir uma cena épica, em que alguns dos principais nomes do futebol mundial avançam em direção ao troféu em um templo asteca, reforçando a grandiosidade do torneio, a disputa entre gigantes e o peso simbólico da conquista.",
+      "O conceito une esporte, narrativa e atmosfera cinematográfica para transformar o jogo em uma experiência quase mítica."
+    ],
+    "work": "Direção de arte, composição, storytelling visual, manipulação e integração de imagens, ambientação temática, criação de profundidade, iluminação dramática, tratamento de cor, clima cinematográfico e adaptação da peça para apresentação estática e motion.",
+    "tools": [
+      "Adobe Photoshop",
+      "After Effects"
+    ],
+    "colors": [
+      "#07162e",
+      "#196ca5"
+    ],
+    "cover": "projects/copa-2026-semifinal/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/copa-2026-semifinal/capa.jpg",
+        "label": "Arte principal"
+      },
+      {
+        "src": "projects/copa-2026-semifinal/antes-depois.jpg",
+        "label": "Antes e depois da composição"
+      },
+      {
+        "type": "video",
+        "src": "projects/copa-2026-semifinal/motion.mp4",
+        "poster": "projects/copa-2026-semifinal/capa.jpg",
+        "label": "Versão em motion"
+      },
+      {
+        "src": "projects/copa-2026-semifinal/mockup.png",
+        "label": "Aplicação em pôster"
+      }
+    ]
+  },
+  {
+    "id": "tupac",
+    "title": "Tupac",
+    "category": "Direção de Arte",
+    "eyebrow": "Design Musical · Capa Conceitual",
+    "year": "2025",
+    "description": [
+      "Essa peça marcou o início do meu surto criativo voltado para artistas. Depois de conhecer mais sobre a trajetória, a influência e o peso cultural de Tupac, desenvolvi essa arte como uma homenagem visual construída com muito respeito e pesquisa.",
+      "A composição reúne diferentes momentos e símbolos ligados à sua imagem, buscando traduzir sua personalidade, sua força dentro do rap e o legado que ele deixou para a cultura mundial. A proposta foi criar uma peça com clima nostálgico, identidade forte e apelo visual suficiente para funcionar tanto como arte principal quanto como aplicação em ambiente musical."
+    ],
+    "work": "Direção de arte, pesquisa de referências, storytelling visual, composição, manipulação e recorte de imagens, integração de elementos, tratamento de cor, ambientação nostálgica e construção de identidade visual para tributo artístico.",
+    "tools": [
+      "Adobe Photoshop"
+    ],
+    "colors": [
+      "#f2e8de",
+      "#c5a98d"
+    ],
+    "cover": "projects/tupac/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/tupac/capa.jpg",
+        "label": "Arte principal"
+      },
+      {
+        "src": "projects/tupac/mockup.jpg",
+        "label": "Aplicação em ambiente musical"
+      }
+    ]
+  },
+  {
+    "id": "saudade-spider-man-lyric-video",
+    "title": "Saudade — Spider-Man Lyric Video",
+    "category": "Motion",
+    "eyebrow": "Edição de Vídeo · Audiovisual",
+    "year": "2026",
+    "description": [
+      "Esse projeto nasceu de uma conexão quase imediata entre imagem e música. Assim que assisti ao trailer, associei as cenas à música Saudade e senti que existia uma narrativa que poderia ser construída a partir dessa combinação.",
+      "Desenvolvi então um lyric video utilizando cortes, ritmo, tipografia e momentos específicos das cenas para acompanhar a emoção da música e criar uma atmosfera mais melancólica e cinematográfica. O projeto também marcou meu primeiro trabalho completo de edição de vídeo, reunindo montagem, motion e direção visual em uma única peça."
+    ],
+    "work": "Edição de vídeo, ritmo e sincronização musical, seleção e montagem de cenas, storytelling audiovisual, composição tipográfica, motion design, transições, tratamento de cor e construção de atmosfera.",
+    "tools": [
+      "Adobe Premiere Pro",
+      "Adobe After Effects"
+    ],
+    "colors": [
+      "#310709",
+      "#d51d22"
+    ],
+    "cover": "projects/saudade-spider-man/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/saudade-spider-man/capa.jpg",
+        "label": "Capa do lyric video"
+      },
+      {
+        "type": "video",
+        "src": "projects/saudade-spider-man/lyric-video.mp4",
+        "poster": "projects/saudade-spider-man/capa.jpg",
+        "label": "Lyric video completo"
+      },
+      {
+        "src": "projects/saudade-spider-man/mockup.jpg",
+        "label": "Aplicação em plataforma de vídeo"
+      }
+    ]
+  },
+  {
+    "id": "cafe-com-conexao",
+    "title": "Café com Conexão",
+    "category": "Design Comercial",
+    "eyebrow": "Design Corporativo · Apresentações · Motion Design",
+    "year": "2026",
+    "description": [
+      "O Café com Conexão foi desenvolvido como uma identidade visual para uma apresentação corporativa interna, buscando tornar encontros recorrentes da equipe mais leves, dinâmicos e próximos.",
+      "Criei um sistema visual baseado em formas orgânicas, cores vibrantes e elementos relacionados ao café, aplicando essa linguagem em diferentes momentos da apresentação, como integração de novos membros, tempo de casa, aniversariantes e espaços de interação. Além dos slides estáticos, o projeto também ganhou uma versão animada, ampliando a experiência através do motion design."
+    ],
+    "work": "Direção visual, identidade para apresentações, construção de sistema gráfico, hierarquia da informação, composição, diagramação, consistência entre slides, ilustração vetorial e motion design.",
+    "tools": [
+      "Microsoft PowerPoint",
+      "Adobe Illustrator",
+      "Adobe After Effects"
+    ],
+    "colors": [
+      "#fafafa",
+      "#596ed8"
+    ],
+    "cover": "projects/cafe-com-conexao/capa.jpg",
+    "gallery": [
+      {
+        "src": "projects/cafe-com-conexao/capa.jpg",
+        "label": "Capa da apresentação"
+      },
+      {
+        "type": "video",
+        "src": "projects/cafe-com-conexao/motion.mp4",
+        "poster": "projects/cafe-com-conexao/capa.jpg",
+        "label": "Apresentação animada"
+      },
+      {
+        "src": "projects/cafe-com-conexao/slide-2.jpg",
+        "label": "Interação e escala de emojis"
+      },
+      {
+        "src": "projects/cafe-com-conexao/slide-3.jpg",
+        "label": "Cronograma"
+      },
+      {
+        "src": "projects/cafe-com-conexao/slide-4.jpg",
+        "label": "Novos integrantes"
+      },
+      {
+        "src": "projects/cafe-com-conexao/slide-5.jpg",
+        "label": "Apresentação dos novos integrantes"
+      },
+      {
+        "src": "projects/cafe-com-conexao/slide-6.jpg",
+        "label": "Tempo de casa"
+      },
+      {
+        "src": "projects/cafe-com-conexao/slide-7.jpg",
+        "label": "Reconhecimento por tempo de casa"
+      },
+      {
+        "src": "projects/cafe-com-conexao/slide-8.jpg",
+        "label": "Aniversariantes"
+      },
+      {
+        "src": "projects/cafe-com-conexao/slide-9.jpg",
+        "label": "Apresentação dos aniversariantes"
+      },
+      {
+        "src": "projects/cafe-com-conexao/slide-10.jpg",
+        "label": "Conte sua história"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blackzux.github.io/portfolio-yuri-renato/sitemap.xml
