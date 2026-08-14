@@ -33,4 +33,4 @@ jobs:
           git add -- about contact data downloads fonts home hub projects services scripts .github .gitignore .nojekyll COMO-ATUALIZAR.md LEIA-ME.txt README.md app.css app.js bootstrap.js index.html robots.txt sitemap.xml
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "Publica portfólio completo de Yuri Renato"
-          git push
+          git push origin HEAD:main
